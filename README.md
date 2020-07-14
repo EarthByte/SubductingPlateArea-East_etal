@@ -1,7 +1,7 @@
 # SubductingPlateArea-East_etal
 Scripts used in East et al. (2020)
 
-Code and data bundle can also be downloaded from [Zenodo](https://zenodo.org/):
+Code and data bundle can also be downloaded from [Zenodo](https://zenodo.org/):<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3386429.svg)](https://doi.org/10.5281/zenodo.3386429)
 
 ## References:
