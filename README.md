@@ -1,3 +1,6 @@
+### This repository has been moved to https://github.com/EarthByte/miscellaneous-notebooks/tree/master/notebooks/SubductingPlateArea-East_etal.
+### This repository has been archived. Find the latest code and data at https://github.com/EarthByte/miscellaneous-notebooks/tree/master/notebooks/SubductingPlateArea-East_etal.
+
 # SubductingPlateArea-East_etal
 Scripts used in East et al. (2020).
 
